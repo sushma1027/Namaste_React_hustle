@@ -1,0 +1,35 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "this is learning new way react",
+  "scripts": {
+    "test": "jest",
+    "start":"parcel index.html",
+    "build":"parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushma1027/Namaste_React_hustle.git"
+  },
+  "keywords": [
+    "react",
+    "in",
+    "trend",
+    "react",
+    "expert"
+  ],
+  "author": "sushma yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushma1027/Namaste_React_hustle/issues"
+  },
+  "homepage": "https://github.com/sushma1027/Namaste_React_hustle#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
